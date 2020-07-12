@@ -2,6 +2,7 @@ selected_scheme scheme-small
 binary_x86_64-linux 1
 collection-fontutils 1
 collection-latex 1
+collection-xetex 1
 option_adjustrepo 1
 option_autobackup 0
 option_backupdir tlpkg/backups
